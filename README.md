@@ -59,9 +59,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Learn More about ReactJS
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more in the [Create NextJS App](https://nextjs.org/learn/basics/create-nextjs-app).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To learn NextJS, check out the [NextJS documentation](https://nextjs.org/docs/getting-started).
 
 ## :memo: License
 
